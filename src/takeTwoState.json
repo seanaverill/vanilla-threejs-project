@@ -1,0 +1,162 @@
+{
+  "sheetsById": {
+    "Animated scene": {
+      "staticOverrides": {
+        "byObject": {
+          "Torus Knot": {
+            "rotation": {
+              "x": 1.037974683544304
+            }
+          }
+        }
+      },
+      "sequence": {
+        "subUnitsPerUnit": 30,
+        "length": 10,
+        "type": "PositionalSequence",
+        "tracksByObject": {
+          "Torus Knot": {
+            "trackData": {
+              "c1RxuHv4PU": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "Torus Knot:[\"rotation\",\"x\"]",
+                "keyframes": [
+                  {
+                    "id": "BcQpFwbZNr",
+                    "position": 0,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "value": 0
+                  },
+                  {
+                    "id": "eZ9eY6LawJ",
+                    "position": 3,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "value": 0.5329063250600481
+                  },
+                  {
+                    "id": "0suME6_tpW",
+                    "position": 10,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "value": 1.1151848060727063
+                  }
+                ]
+              },
+              "kJBF-SCVFK": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "Torus Knot:[\"rotation\",\"y\"]",
+                "keyframes": [
+                  {
+                    "id": "gccWdsgSfF",
+                    "position": 0,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "value": 0
+                  },
+                  {
+                    "id": "QZ4xaEoG00",
+                    "position": 3,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "value": 0.5738991192954364
+                  },
+                  {
+                    "id": "WcgNlkglgW",
+                    "position": 10,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "value": 1.1055446889156897
+                  }
+                ]
+              },
+              "huHKs43NV9": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "Torus Knot:[\"rotation\",\"z\"]",
+                "keyframes": [
+                  {
+                    "id": "JKfSwtxofM",
+                    "position": 0,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "value": 0
+                  },
+                  {
+                    "id": "2-d1g2HZ55",
+                    "position": 3,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "value": 0.4919135308246598
+                  },
+                  {
+                    "id": "svHJgYs7zB",
+                    "position": 10,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "value": 0.8463439105714955
+                  }
+                ]
+              }
+            },
+            "trackIdByPropPath": {
+              "[\"rotation\",\"x\"]": "c1RxuHv4PU",
+              "[\"rotation\",\"y\"]": "kJBF-SCVFK",
+              "[\"rotation\",\"z\"]": "huHKs43NV9"
+            }
+          }
+        }
+      }
+    }
+  },
+  "definitionVersion": "0.4.0",
+  "revisionHistory": [
+    "8zY81MKBntAIKM_4",
+    "AMwAyOM6_FLZbgAl"
+  ]
+}

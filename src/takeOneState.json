@@ -1,0 +1,125 @@
+{
+  "sheetsById": {
+    "Animated scene": {
+      "staticOverrides": {
+        "byObject": {
+          "Torus Knot": {
+            "rotation": {
+              "x": 1.037974683544304
+            }
+          }
+        }
+      },
+      "sequence": {
+        "subUnitsPerUnit": 30,
+        "length": 10,
+        "type": "PositionalSequence",
+        "tracksByObject": {
+          "Torus Knot": {
+            "trackData": {
+              "c1RxuHv4PU": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "Torus Knot:[\"rotation\",\"x\"]",
+                "keyframes": [
+                  {
+                    "id": "BcQpFwbZNr",
+                    "position": 0,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "value": 0
+                  },
+                  {
+                    "id": "eZ9eY6LawJ",
+                    "position": 3,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "value": 0.5329063250600481
+                  }
+                ]
+              },
+              "kJBF-SCVFK": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "Torus Knot:[\"rotation\",\"y\"]",
+                "keyframes": [
+                  {
+                    "id": "gccWdsgSfF",
+                    "position": 0,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "value": 0
+                  },
+                  {
+                    "id": "QZ4xaEoG00",
+                    "position": 3,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "value": 0.5738991192954364
+                  }
+                ]
+              },
+              "huHKs43NV9": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "Torus Knot:[\"rotation\",\"z\"]",
+                "keyframes": [
+                  {
+                    "id": "JKfSwtxofM",
+                    "position": 0,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "value": 0
+                  },
+                  {
+                    "id": "2-d1g2HZ55",
+                    "position": 3,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "value": 0.4919135308246598
+                  }
+                ]
+              }
+            },
+            "trackIdByPropPath": {
+              "[\"rotation\",\"x\"]": "c1RxuHv4PU",
+              "[\"rotation\",\"y\"]": "kJBF-SCVFK",
+              "[\"rotation\",\"z\"]": "huHKs43NV9"
+            }
+          }
+        }
+      }
+    }
+  },
+  "definitionVersion": "0.4.0",
+  "revisionHistory": [
+    "AMwAyOM6_FLZbgAl"
+  ]
+}
